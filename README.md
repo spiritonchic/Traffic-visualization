@@ -11,7 +11,7 @@ docker-compose up --build
 ```
 
 Wait for build to complete, then open:  
-👉 [http://localhost:3000](http://localhost:3000)
+👉 [http://localhost:8080](http://localhost:8080)
 
 ## 🌍 What You'll See
 - Rotatable 3D globe with zoom
